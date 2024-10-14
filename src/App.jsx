@@ -15,16 +15,16 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Главная</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">О нас</Link>
             </li>
             <li>
-              <Link to="/contact">Contact</Link>
+              <Link to="/contact">Контакты</Link>
             </li>
             <li>
-              <Link to="/login">Login</Link>
+              <Link to="/login">Войти</Link>
             </li>
           </ul>
         </nav>
